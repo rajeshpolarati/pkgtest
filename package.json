@@ -12,7 +12,7 @@
   },
   "author": "",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "@rajeshpolarati:registry": "https://npm.pkg.github.com"
   },
   "license": "ISC",
   "bugs": {
