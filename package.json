@@ -1,5 +1,5 @@
 {
-  "name": "pkgtest",
+  "name": "@rajeshpolarati/pkgtest",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,6 +11,9 @@
     "url": "git+https://github.com/RajeshPolarati/pkgtest.git"
   },
   "author": "",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/RajeshPolarati/pkgtest/issues"
